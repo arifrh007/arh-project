@@ -2,8 +2,8 @@ Nama = Arif Rahman Hakim
 Prodi = Sistem Informasi
 Saya = input('Masukkan berat badan anda {kg}')
 Rekan = input('Masukkan berat badan rekan anda {kg}')
-Rekan = int (Rekan)
-Saya = int (Saya)
+Rekan = int(Rekan)
+Saya = int(Saya)
 Hasil1 = Rekan - Saya
 Hasil2 = Saya - Rekan
 
